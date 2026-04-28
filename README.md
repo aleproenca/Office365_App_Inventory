@@ -35,3 +35,6 @@ No início de cada arquivo `.ps1`, preencha as variáveis de autenticação:
 $TenantId     = "seu-tenant-id"
 $ClientId     = "seu-client-id"
 $ClientSecret = "seu-client-secret"
+
+## ⚖️ Licença
+Este projeto está sob a licença MIT. Sinta-se à vontade para usar e adaptar.
